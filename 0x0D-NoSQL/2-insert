@@ -1,0 +1,2 @@
+// 2-insert / 0x0D. NoSQL /  Web Stack programming ― Back-end
+db.school.insert({ name: "Holberton school" })
